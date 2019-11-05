@@ -34,7 +34,7 @@ BitWanga, a short path to value for social activities, including business.
 * Zcash
 * Monero
 * Liquid
-* IA
+* AI
 * www & plugins : Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
 * Distributed storage
 * Security
