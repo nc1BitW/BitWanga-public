@@ -1,14 +1,12 @@
 # BitWanga
 
-Social protocol with direct social & economic collateral/security (layer3)
+BitWanga, a short path to value for social activities, including business.
 
-End-to-end digital institution
-
-Glue between communities & industries
-
-Glue between collective values and p2p payment systems
-
-AI Compatible
+* Social protocol with direct social & economic collateral/security (layer3)
+* End-to-end digital institution
+* Glue between communities & industries
+* Glue between collective values and p2p payment systems
+* AI Compatible
 
 ## Guide line
 
