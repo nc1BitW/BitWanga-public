@@ -3,32 +3,32 @@
 BitWanga, a short path to value for social activities, including business.
 
 * Social protocol
- * End-to-end digital institution
- * Social & economic collateral/security
- * Social activities and links tracking (anonymous)
- * Confidential zones
+   * End-to-end digital institution
+   * Social & economic collateral/security
+   * Social activities and links tracking (anonymous)
+   * Confidential zones
 * n to n Distribution protocol
- * Glue between communities & industries
- * Glue between collective values and p2p payment systems (layer3)
- * Economical value tracking and retribution
- * Signed relationships
- * Signed by third p2p payment systems (agnostic but anonymous first)
+   * Glue between communities & industries
+   * Glue between collective values and p2p payment systems (layer3)
+   * Economical value tracking and retribution
+   * Signed relationships
+   * Signed by third p2p payment systems (agnostic but anonymous first)
 * Fully decentralized
- * Graph distributed (p2p)
- * Code distributed (p2p)
- * Infrastructure in Space (LEO mesh nanosatellite)
- * Decentralized telecom operator (optical mesh, opensource, in space autonomous operating)
- * Custodian in space (option)
+   * Graph distributed (p2p)
+   * Code distributed (p2p)
+   * Infrastructure in Space (LEO mesh nanosatellite)
+   * Decentralized telecom operator (optical mesh, opensource, in space autonomous operating)
+   * Custodian in space (option)
 * Smart
- * AI Compatible (graph)
+   * AI Compatible (graph)
 * Packaging
- * SaaS offers
- * Support
- * Leaning
- * Functionals modules (on APIs)
- * Plugins for current tools
- * Opensource & easy to code
- * Free access and usage, no fees
+   * SaaS offers
+   * Support
+   * Leaning
+   * Functionals modules (on APIs)
+   * Plugins for current tools
+   * Opensource & easy to code
+   * Free access and usage, no fees
 
 ## Guide line
 
@@ -107,4 +107,3 @@ BitWanga, a short path to value for social activities, including business.
 * M31: Start AI features
 
 M = Month
-M = 2019-11
