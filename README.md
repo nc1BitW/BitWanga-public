@@ -84,6 +84,8 @@ BitWanga, a short path to value for social activities, including business.
 
 ### Space progam
 
+https://www.federation-openspacemakers.com/fr/participer/projets/aoo-operateur-autonome-en-orbite/
+
 * M13: Start space hardware
 * M14: Start space launch
 * M15: Start space optical communication layer
