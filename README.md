@@ -5,7 +5,7 @@ BitWanga, a short path to value for social activities, including business.
 * Social protocol
    * End-to-end digital institution
    * Social & economic collateral/security
-   * Social activities and links tracking (anonymous)
+   * Social activities and links (anonymous)
    * Confidential zones
 * n to n Distribution protocol
    * Glue between communities & industries
