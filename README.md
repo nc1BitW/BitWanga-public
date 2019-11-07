@@ -17,7 +17,7 @@ BitWanga, a short path to value for social activities, including business.
    * Graph distributed (p2p)
    * Code distributed (p2p)
    * Infrastructure in Space (LEO mesh nanosatellite)
-   * Decentralized telecom operator (optical mesh, opensource, in space autonomous operating)
+   * Decentralized telecom operator (optical mesh, opensource, in space autonomous operating) https://www.federation-openspacemakers.com/fr/participer/projets/aoo-operateur-autonome-en-orbite/
    * Custodian in space (option)
 * Smart
    * AI Compatible (graph)
@@ -84,8 +84,6 @@ BitWanga, a short path to value for social activities, including business.
 
 ### Space progam
 
-https://www.federation-openspacemakers.com/fr/participer/projets/aoo-operateur-autonome-en-orbite/
-
 * M13: Start space hardware
 * M14: Start space launch
 * M15: Start space optical communication layer
@@ -109,3 +107,4 @@ https://www.federation-openspacemakers.com/fr/participer/projets/aoo-operateur-a
 * M31: Start AI features
 
 M = Month
+M1 = 11/2019
