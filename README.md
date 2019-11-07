@@ -2,6 +2,7 @@
 
 BitWanga, a short path to value for social activities, including business.
 
+* Book "Back to the cypherpunk futur"
 * Social protocol
    * End-to-end digital institution
    * Social & economic collateral/security
