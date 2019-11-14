@@ -127,11 +127,5 @@ Totally digital and autonomous, we have built a system without boring management
 * M31: Start AI features
 
 M = Month
+
 M1 = 11/2019
-
-
-# Donation
-
-Zcash address: t1ZZnU1xVE9eQUrm7q6mBmrujWEe5rgM9HM
-
-Bitcoin address: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
