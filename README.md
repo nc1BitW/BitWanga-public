@@ -18,7 +18,7 @@ With a mix, we created digital justice, compatible with all human activities.
 
 Totally digital and autonomous, we have built a system without boring management, delagation nor central attributions / references.
 
-# Some featrures
+# Some features
 
 * Book "Back to the cypherpunk futur"
 * Social protocol
