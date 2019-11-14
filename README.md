@@ -22,10 +22,11 @@ Totally digital and autonomous, we have built a system without boring management
 
 * Book "Back to the cypherpunk futur"
 * Social protocol
+   * Crytowallet as a new social channel
    * End-to-end digital institution
    * Social & economic collateral/security
    * Social activities and links (anonymous)
-   * Confidential zones
+   * Confidential zones   
 * n to n Distribution protocol
    * Glue between communities & industries
    * Glue between collective values and p2p payment systems (layer3)
