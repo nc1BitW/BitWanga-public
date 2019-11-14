@@ -6,8 +6,10 @@ BitWanga, a short path to value for social activities, including business.
 
 We protect your privacy by direct and efficient human interactions.
 
-Economic protocol = f1(economical collateral )
+Economic protocol = f1(economical collateral)
+
 Social Protocol = f2(social collateral)
+
 Societal protocol = f1(economical collateral) + f2(social collateral)
 
 Protocols both economic and social exist.
