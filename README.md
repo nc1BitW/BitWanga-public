@@ -13,7 +13,9 @@ Social Protocol = f2(social collateral)
 Societal protocol = f1(economical collateral) + f2(social collateral)
 
 Protocols both economic and social exist.
+
 With a mix, we created digital justice, compatible with all human activities.
+
 Totally digital and autonomous, we have built a system without boring management, delagation nor central attributions / references.
 
 # Some featrures
