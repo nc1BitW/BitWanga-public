@@ -4,7 +4,7 @@ BitWanga, a short path to value for social activities, including business.
 
 # Societal mathematics
 
-We protect your privacy by direct and efficient human interactions.
+You protect your privacy when direct and efficient human interactions.
 
 Economic protocol = f1(economical collateral)
 
