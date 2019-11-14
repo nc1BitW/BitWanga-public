@@ -18,7 +18,7 @@ With a mix, we created digital justice, compatible with all human activities.
 
 Totally digital and autonomous, we have built a system without boring management, delagation nor central attributions / references.
 
-# Some features
+# Features
 
 * Book "Back to the cypherpunk futur"
 * Social protocol
@@ -132,4 +132,5 @@ M1 = 11/2019
 # Donation
 
 Zcash address: t1ZZnU1xVE9eQUrm7q6mBmrujWEe5rgM9HM
+
 Bitcoin address: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
