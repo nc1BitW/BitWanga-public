@@ -10,7 +10,7 @@ Economic protocol = f1(economical collateral)
 
 Social Protocol = f2(social collateral)
 
-Societal protocol = f1(economical collateral) + f2(social collateral)
+Societal protocol = f1 + f2
 
 Protocols both economic and social exist.
 
