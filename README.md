@@ -2,6 +2,20 @@
 
 BitWanga, a short path to value for social activities, including business.
 
+# Societal mathematics
+
+We protect your privacy by direct and efficient human interactions.
+
+Economic protocol = f1(economical collateral )
+Social Protocol = f2(social collateral)
+Societal protocol = f1(economical collateral) + f2(social collateral)
+
+Protocols both economic and social exist.
+With a mix, we created digital justice, compatible with all human activities.
+Totally digital and autonomous, we have built a system without boring management, delagation nor central attributions / references.
+
+# Some featrures
+
 * Book "Back to the cypherpunk futur"
 * Social protocol
    * End-to-end digital institution
@@ -31,9 +45,9 @@ BitWanga, a short path to value for social activities, including business.
    * Opensource & easy to code
    * Free access and usage, no fees
 
-## Guide line
+# Guide line
 
-### Not wanted
+## Not wanted
 
 * Complexity
 * Governance
@@ -44,7 +58,7 @@ BitWanga, a short path to value for social activities, including business.
 * Token
 * Meta-data
 
-### Core
+## Core
 
 * Distributed graph
 * Signing relationships
@@ -52,7 +66,7 @@ BitWanga, a short path to value for social activities, including business.
 * POW
 * Www API
 
-### Interfaces
+## Interfaces
 
 * Zcash
 * Monero
@@ -62,9 +76,9 @@ BitWanga, a short path to value for social activities, including business.
 * Distributed storage
 * Security
 
-## Roadmap
+# Roadmap
 
-### Prototype
+## Prototype
 
 * M1: Graph design & sign process
 * M2: Code workflows
@@ -72,7 +86,7 @@ BitWanga, a short path to value for social activities, including business.
 * M4: Code integration Zcash & Monero
 * M5: Prototype
 
-### Feedbacks
+## Feedbacks
 
 * M6: Marketing supports & feedbacks
 * M7: Start plugins Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
@@ -83,7 +97,7 @@ BitWanga, a short path to value for social activities, including business.
 * M11: Start support
 * M12: Start corporate diffusion
 
-### Space progam
+## Space progam
 
 * M13: Start space hardware
 * M14: Start space launch
@@ -93,7 +107,7 @@ BitWanga, a short path to value for social activities, including business.
 * M18: Start space treatment resilient protocol
 * M19: Start space interoperability protocol
 
-### Diffusion
+## Diffusion
 
 * M24: Marketing supports & feedbacks
 * M25: Start education & tools
@@ -103,9 +117,15 @@ BitWanga, a short path to value for social activities, including business.
 * M29: Start support
 * M30: Start corporate diffusion
 
-### AI progam
+## AI progam
 
 * M31: Start AI features
 
 M = Month
 M1 = 11/2019
+
+
+# Donation
+
+Zcash address: t1ZZnU1xVE9eQUrm7q6mBmrujWEe5rgM9HM
+Bitcoin address: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
