@@ -54,7 +54,6 @@ Digital and autonomous, we build a system without boring management, delagation 
 
 * Complexity
 * Governance
-* Funding
 * Fundation
 * Smart contract
 * Token
@@ -66,7 +65,7 @@ Digital and autonomous, we build a system without boring management, delagation 
 * Signing relationships
 * Validations
 * POW
-* Www API
+* www API
 
 ## Interfaces
 
