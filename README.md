@@ -69,6 +69,7 @@ Digital and autonomous, we build a system without boring management, delagation 
 
 ## Interfaces
 
+* Wearable
 * Zcash,  Monero Or Crit (ideally)
 * Liquid (Agnostic) Or Crit (ideally)
 * AI
