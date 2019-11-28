@@ -5,7 +5,7 @@ BitWanga, a short path to value for social activities, including business.
 Own your bank. Own your social links. Own your privacy. 
 Wear naturaly your telecom infrastructure as your digital institution. 
 
-Layer 3 on top of the bests projects.
+Layer 3 on top of the best projects.
 @bitwanga
 
 # Societal mathematics
