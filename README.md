@@ -2,21 +2,20 @@
 
 BitWanga, a short path to value for social activities, including business.
 
+Own your bank. Own your social links. Own your privacy. 
+Wear naturaly your telecom infrastructure as your digital institution. 
+
+Layer 3 on top of the bests projects.
+@bitwanga
+
 # Societal mathematics
 
 You protect your privacy when direct and efficient human interactions.
 
-Economic protocol = f1(economical collateral)
+Economic protocol + Social Protocol. 
 
-Social Protocol = f2(social collateral)
-
-Societal protocol = f1 + f2
-
-Protocols both economic and social exist.
-
-With a mix, we created digital justice, compatible with all human activities.
-
-Totally digital and autonomous, we have built a system without boring management, delagation nor central attributions / references.
+Protocols both economic and social exist, with a mix, we created digital justice, compatible with all human activities.
+Digital and autonomous, we build a system without boring management, delagation nor central attributions / references.
 
 # Features
 
@@ -58,7 +57,6 @@ Totally digital and autonomous, we have built a system without boring management
 * Governance
 * Funding
 * Fundation
-* Bloc
 * Smart contract
 * Token
 * Meta-data
@@ -73,9 +71,8 @@ Totally digital and autonomous, we have built a system without boring management
 
 ## Interfaces
 
-* Zcash
-* Monero
-* Liquid
+* Zcash,  Monero Or Crit (ideally)
+* Liquid (Agnostic) Or Crit (ideally)
 * AI
 * www & plugins : Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
 * Distributed storage
