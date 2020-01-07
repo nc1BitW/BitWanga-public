@@ -2,16 +2,14 @@
 
 BitWanga, a short path to value for social activities, including business.
 
-Own your bank. Own your social links. Own your privacy. Own your justice. 
+Own your bank. Own your social links. Own your privacy. Own your justice.
 Wear and use naturaly your telecom infrastructure as your digital institution. 
-
-Layer 3 on top of the best projects.
 
 # Societal mathematics
 
 You protect your privacy when direct and efficient human interactions.
 
-Economic protocol + Social Protocol. 
+Bitwanga layer 3 = Economic protocol + Social Protocol. 
 
 Protocols both economic and social exist, with a mix, we created digital justice, compatible with all human activities.
 Digital and autonomous, we build a system without boring management, delagation nor central attributions / references.
@@ -19,70 +17,82 @@ Digital and autonomous, we build a system without boring management, delagation 
 # Features
 
 * Book "Back to the cypherpunk futur"
+
 * Social protocol
    * Crytowallet as a new social channel
    * End-to-end digital institution
    * Social & economic collateral/security
    * Social activities and links (anonymous)
-   * Confidential zones   
-* n to n Distribution protocol
-   * Glue between communities & industries
-   * Glue between collective values and p2p payment systems (layer3)
-   * Economical value tracking and retribution
-   * Signed relationships
-   * Signed by third p2p payment systems (agnostic but anonymous first)
-* Fully decentralized
-   * Graph distributed (p2p)
-   * Code distributed (p2p)
-   * Infrastructure in Space (LEO mesh nanosatellite)
-   * Decentralized telecom operator (optical mesh, opensource, in space autonomous operating) https://www.federation-openspacemakers.com/fr/participer/projets/aoo-operateur-autonome-en-orbite/
-   * Custodian in space (option)
+   * Confidential zones
+
+* Economical distribution
+   * No fee
+   * Automatic chain value retribution
+   * Crypto-currencies agnostic
+
+* Useful
+  * "API Mixer" Make your API anonymous (from & To) with our decentralized shield
+  * Native types of exchanges/registers distributed : Data, Proofs, Storage, Computation (microservices), Values comptabile with energy units, Messages, Serial numbers (non fungibles)
+  * n2n transactions
+  * Toolbox : complex multisign process, naming, cataogies/types/references/parents...
+  * Mix of modes : public, private, confidentials
+  * Full JS & web sockets (easy to code)
+
+* Efficient
+  * Quantum resistant
+  * Very secure network layer
+  * around 10s / transactions however the nomber of transactions (fully scalable)
+
 * Smart
    * AI Compatible (graph)
+
 * Packaging
    * SaaS offers
    * Support
    * Leaning
    * Functionals modules (on APIs)
    * Plugins for current tools
-   * Opensource & easy to code
-   * Free access and usage, no fees
+   
+* n2n transactions
+   * Glue between communities & industries
+   * Glue between collective values and p2p payment systems (layer3)
+   * Economical value tracking and retribution
+   * Signed relationships
+   * Signed by third p2p payment systems (agnostic but anonymous first)
+ 
+* Fully decentralized
+   * Clean funding : no foundation, no ICO, no private compagny or intellectual protection, open source
+   * API distributed 
+   * Graph distributed (p2p)
+   * Code distributed (p2p)
+   
+* Space target
+   * Infrastructure in Space (LEO mesh nanosatellite) with the first decentralized telecom operator (optical mesh, opensource, in space autonomous operating) https://www.federation-openspacemakers.com/fr/participer/projets/aoo-operateur-autonome-en-orbite/
+   * Custodian in space (option)
 
 # Guide line
 
 ## Not wanted
 
 * Complexity
-* Governance
-* Fundation
+* Governance (including staking)
 * Smart contract
-* Token
-* Meta-data
-
-## Core
-
-* Distributed graph
-* Signing relationships
-* Validations
-* POW
-* www API
+* Fundation
 
 ## Interfaces
 
 * Wearable
-* Zcash,  Monero Or Crit (ideally)
-* Liquid (Agnostic) Or Crit (ideally)
+* Bitcoin (first), then Monero then Liquid (Agnostic) then Crit (ideally)
 * AI
-* www & plugins : Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
-* Distributed storage
+* www & plugins: Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
 * Security
 
 # Roadmap
 
 ## Prototype
 
-* M1: Graph design & sign process
-* M2: Code workflows
+* M1: Graph design & sign process - DONE
+* M2: Code workflows - DONE
 * M3: Code APIs
 * M4: Code integration Zcash & Monero
 * M5: Prototype
