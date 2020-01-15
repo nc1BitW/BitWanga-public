@@ -121,6 +121,7 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 * M3: Code APIs
 * M4: Code integration Zcash & Monero
 * M5: Prototype
+* M6: Open source
 
 ## Feedbacks
 
@@ -155,7 +156,21 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 
 ## AI progam
 
-* M13: Start AI features
+* M13: Start AI integration
+* M14: Start AI data box
+* M15: Start AI mixer and peers optimisation
+* M16: Start AI consenus optimisation
+* M17: Start AI features optimisation
+
+## Security progam
+
+* M24: Code audit
+* M25: Hardware audit
+* M26: Open audits
+* M27: Updates
+* M28: Updates
+* M29: Updates
+* M30: Updates
 
 ## Diffusion
 
