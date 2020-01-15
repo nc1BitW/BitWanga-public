@@ -133,6 +133,16 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 * M11: Start support
 * M12: Start corporate diffusion
 
+## Wearable progam
+
+* M13: Start wearable hardware
+* M14: Start wearable launch
+* M15: Start wearable communication layer
+* M16: Start wearable mesh protocol
+* M17: Start wearable storage resilient protocol
+* M18: Start wearable treatment resilient protocol
+* M19: Start wearable interoperability protocol
+
 ## Space progam
 
 * M13: Start space hardware
@@ -143,6 +153,10 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 * M18: Start space treatment resilient protocol
 * M19: Start space interoperability protocol
 
+## AI progam
+
+* M13: Start AI features
+
 ## Diffusion
 
 * M24: Marketing supports & feedbacks
@@ -152,10 +166,6 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 * M28: Start business development
 * M29: Start support
 * M30: Start corporate diffusion
-
-## AI progam
-
-* M31: Start AI features
 
 M = Month
 
