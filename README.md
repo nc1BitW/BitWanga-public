@@ -71,11 +71,11 @@ Digital and autonomous, we build a system without boring management, delagation 
    * Custodian in space (option)
    
 * Interfaces
- * Wearable
- * Bitcoin (first), then Monero then Liquid (Agnostic) then Crit (ideally)
- * AI
- * www & plugins: Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
- * Security
+   * Wearable
+   * Bitcoin (first), then Monero then Liquid (Agnostic) then Crit (ideally)
+   * AI
+   * www & plugins: Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
+   * Security
 
 # Guide line
 
