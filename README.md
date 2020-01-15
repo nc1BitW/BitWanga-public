@@ -72,6 +72,10 @@ Digital and autonomous, we build a system without boring management, delagation 
 
 # Guide line
 
+It's a coder project.
+
+We code a clever use of research and engineering, in various fields in order to offer operational solutions to the real problems and opportunities of a digital world.
+
 ## Not wanted
 
 * Complexity
