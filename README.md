@@ -102,7 +102,7 @@ I advance without. We'll see.
 * No sponsor.
 * No "star".
 
-Here a bitcoin address for donations: 3Has7zwrLiTwmufjeuexUBUNQHhGQUhUJB
+Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 
 ## Interfaces
 
