@@ -53,7 +53,7 @@ Digital and autonomous, we build a system without boring management, delagation 
    * Functionals modules (on APIs)
    * Plugins for current tools
    
-* n2n transactions
+* n2m2o2... transactions
    * Glue between communities & industries
    * Glue between collective values and p2p payment systems (layer3)
    * Economical value tracking and retribution
