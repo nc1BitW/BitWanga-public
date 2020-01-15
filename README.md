@@ -76,16 +76,27 @@ It's a project for coders.
 
 We code a clever use of research and engineering, in various fields in order to offer operational solutions to the real problems and opportunities of a digital world.
 
+## Free and Open
+
+* Free to use
+* Free to contribute
+* Free to fork
+* Free to hack
+* Opensource (when ready for)
+* No intellectual property
+
 ## Not wanted
 
-* Complexity
-* Governance (including staking)
-* Smart contract
-* Fundation
+* Attribution (no specific right, no minimums, no acceptance or formalization required, free participation)
+* Complexity (root of centralization)
+* Governance (including staking or professional requirements, light infrastructures)
+* Smart contract (signatures can do the job)
+* Fundation (too much private hands-on with fundations)
 
-# Funding
+## Funding
 
 I advance without. We'll see.
+Here a bitcoin address for donations: 
 
 ## Interfaces
 
