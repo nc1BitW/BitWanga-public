@@ -102,7 +102,7 @@ We code a clever use of research and engineering, in various fields in order to 
 
 ## Funding
 
-I advance without. We'll see.
+I can move on without. We'll see.
 
 * No national "help".
 * No corporate "help".
