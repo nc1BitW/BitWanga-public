@@ -83,6 +83,10 @@ We code a clever use of research and engineering, in various fields in order to 
 * Smart contract
 * Fundation
 
+# Funding
+
+I advance without. We'll see.
+
 ## Interfaces
 
 * Wearable
