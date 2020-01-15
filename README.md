@@ -32,7 +32,7 @@ Digital and autonomous, we build a system without boring management, delagation 
 
 * Useful
   * "API Mixer" Make your API anonymous (from & To) with our decentralized shield
-  * Native types of exchanges/registers distributed : Data, Proofs, Storage, Computation (microservices), Values comptabile with energy units, Messages, Serial numbers (non fungibles)
+  * Native types of exchanges/registers distributed : Data, Proofs, Storage, Serials, Identities, Ownerships;, credentials, Relationships, Messages, Computation (microservices) and Values comptabile with energy units 
   * n2n transactions
   * Toolbox : complex multisign process, naming, cataogies/types/references/parents...
   * Mix of modes : public, private, confidentials
