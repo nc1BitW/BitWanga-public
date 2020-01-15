@@ -96,10 +96,12 @@ We code a clever use of research and engineering, in various fields in order to 
 ## Funding
 
 I advance without. We'll see.
-No national "help".
-No corporate "help".
-No sponsor.
-No "star".
+
+* No national "help".
+* No corporate "help".
+* No sponsor.
+* No "star".
+
 Here a bitcoin address for donations: 3Has7zwrLiTwmufjeuexUBUNQHhGQUhUJB
 
 ## Interfaces
