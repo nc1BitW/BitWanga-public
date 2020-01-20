@@ -9,7 +9,7 @@ Wear and use naturaly your telecom infrastructure as your digital institution.
 
 You protect your privacy when direct and efficient human interactions.
 
-Bitwanga layer 3 = Economic protocol + Social Protocol. 
+Bitwanga layer 3 = Economic protocol/collateral + Social Protocol/collateral. 
 
 Protocols both economic and social exist, with a mix, we created digital justice, compatible with all human activities.
 Digital and autonomous, we build a system without boring management, delagation nor central attributions / references.
