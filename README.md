@@ -95,8 +95,8 @@ We code a clever use of research and engineering, in various fields in order to 
 ## Not wanted
 
 * Attribution (no specific right, no minimums, no acceptance or formalization required, free participation)
-* Complexity (root of centralization)
-* Governance (including staking or professional requirements, light infrastructures)
+* Complexity (root of centralization and bugs)
+* Governance (including staking or professional requirements)
 * Smart contract (signatures can do the job)
 * Fundation (too much private hands-on with fundations)
 
@@ -104,10 +104,10 @@ We code a clever use of research and engineering, in various fields in order to 
 
 I can move on without. We'll see.
 
-* No national "help".
-* No corporate "help".
-* No sponsor.
-* No "star".
+* No national "help"
+* No corporate "help"
+* No sponsor
+* No "star"
 
 Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 
