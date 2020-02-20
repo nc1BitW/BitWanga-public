@@ -1,3 +1,28 @@
+# From where
+
+The internet was great, but now it's dangerous to share information on it.
+It is dangerous for everyone and for all industries.
+
+We firmly believe that our digital and global lives must find a new type of organization, more secure, open, more shareable, more verifiable with less need for trust and less platforms, operators, regulators and third parties.
+
+We have helped startups, major cryptocurrencies and blockchain projects in their goal to disseminate new tools to protect our privacy for our messages and securities transactions. We have partnered with major European companies to find and deploy new opportunities for great cooperation, future currency competition, better management of their value chain, a better way to engage people and communities with their industries. We have lobbied institutions, helped with new laws and to understand what kind of societal and economic changes are going to happen; how they can be among those who build the future.
+
+The result is not good, the projects are for many in a polished parrellis, the industries are for many "customers", the institutions focus a lot on the protection of their national forces. No one is understandable by others and the lost in translation are everywhere and few are really able to exploit the opportunities of openness and make themselves accessible to others.
+
+The gap is therefore enormous.
+
+To overcome this, we propose to create a transition from the real Web to another, with a kind of abstraction with a mixer above the Web APIs.
+
+The idea is to be able to gradually migrate metadata to better channels (Public / Private / Confidential) and flows to better infrastructures (cryptocurrencies and blockchains, decentralized solutions, signature process in protocols, mesh infrastructures secure space to secure this new Internet at no environmental cost).
+
+In the end, we believe that the mobile phone is not the best device to make our digital lives work, and we want to offer portable clothing for everyday use.
+
+So that everyone can contribute to this migration, we want to offer a structured, documented project that is technically accessible to as many people as possible.
+
+We do not think that fundamental research is necessary at this stage to allow this transformation, all the necessary bricks already exist. We will ensure a simple and as open as possible implementation of cryptographic, consensus, telecoms, software and hardware.
+
+Technically, our main effort is to make security accessible. For this, the code will be both ultra-secure and at the same time it will be simple to implement and verify the code. For the project, there is a new type of formal verification of the computer code which will no longer be reserved for PhDs only.
+
 # BitWanga
 
 BitWanga, a short path to value for social activities, including business.
@@ -75,7 +100,9 @@ Digital and autonomous, we build a system without boring management, delagation 
    * Bitcoin (first), then Monero then Liquid (Agnostic) then Crit (ideally)
    * AI
    * www & plugins: Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
-   * Security
+   
+* Security
+   * Very Innovative why to make formal verification simple, with a graph definition of types and transformations
 
 # Guide line
 
