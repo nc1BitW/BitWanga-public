@@ -145,9 +145,10 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 * M1: Graph design & sign process - DONE
 * M2: Code workflows - DONE
 * M3: Code APIs - Descriptions done - More code to do, in progress 60% :)
-* M4: Code integration Zcash & Monero - Still in discussion
-* M5: Prototype - 40%
-* M6: Open source
+* M4: Code tailored VM - Added for a deep easy formal verification and proof of verification
+* M5: Code integration Monero - Still in discussion with Elements
+* M6: Prototype - 40%
+* M7: Open source
 
 ## Feedbacks
 
