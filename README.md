@@ -98,7 +98,7 @@ Digital and autonomous, we build a system without boring management, delagation 
    
 * Interfaces
    * Wearable
-   * Bitcoin (first), then Monero then Liquid (Agnostic) then Crit (ideally)
+   * Bitcoin (first), then then Crit (ideally), agnostic in target
    * AI
    * www & plugins: Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
 
