@@ -70,6 +70,7 @@ Digital and autonomous, we build a system without boring management, delagation 
 
 * Smart
    * AI Compatible (graph)
+   * Innovative why to make simple formal verification, with a graph definition of types and transformations
 
 * Packaging
    * SaaS offers
@@ -100,9 +101,6 @@ Digital and autonomous, we build a system without boring management, delagation 
    * Bitcoin (first), then Monero then Liquid (Agnostic) then Crit (ideally)
    * AI
    * www & plugins: Sage, Salesforce, Magento, Odoo, Trello, Github, Gitlab, Jira
-   
-* Security
-   * Very Innovative why to make formal verification simple, with a graph definition of types and transformations
 
 # Guide line
 
@@ -146,7 +144,7 @@ Here a bitcoin address for donations: bc1q052eldwed4arlhlnj9yet2k5ywnmdyzfhn89f6
 * M2: Code workflows - DONE
 * M3: Code APIs - Descriptions done - More code to do, in progress 60% :)
 * M4: Code tailored VM - Added for a deep easy formal verification and proof of verification
-* M5: Code integration Monero - Still in discussion with Elements
+* M5: Code integration - Still in discussion for Elements (On top of Bitcoin)
 * M6: Prototype - 40%
 * M7: Open source
 
