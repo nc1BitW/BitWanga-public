@@ -23,6 +23,16 @@ We do not think that fundamental research is necessary at this stage to allow th
 
 Technically, our main effort is to make security accessible. For this, the code will be both ultra-secure and at the same time it will be simple to implement and verify the code. For the project, there is a new type of formal verification of the computer code which will no longer be reserved for PhDs only.
 
+But's it's not just a distance problem
+
+Economic incentive is not the best community vector. The value of links that motivates communities is rarely monetary. The strength of social contributions must also be taken into account to better moderate certain drifts observed either in foundations or in exchanges or in industrialists and favor strongly social approaches.
+
+There is no justice in a system without social collateral.
+
+At the current stage of digitalization of the companies the social bonds are worth the physical bonds. Better it is possible to better protect physical ties by collating social ties. This is the principle of a prison in the event of misconduct, except that digitalization makes it possible to collate isolation before harm.
+
+We therefore worked to define a system whose links between the actors are applicable to all human activities, without daily containment.
+
 # BitWanga
 
 BitWanga, a short path to value for social activities, including business.
