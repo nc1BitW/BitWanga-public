@@ -133,7 +133,8 @@ We code a clever use of research and engineering, in various fields in order to 
 * Complexity (root of centralization and bugs)
 * Governance (including staking or professional requirements)
 * Smart contract (signatures can do the job)
-* Fundation (too much private hands-on with fundations)
+* Foundation (too much private hands-on with fundations)
+* Tokens (Bitcoin and its layers already exist to share a register and hold value)
 
 ## Funding
 
